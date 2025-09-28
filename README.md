@@ -162,7 +162,6 @@ The authors assume no responsibility for incorrect interpretations or applicatio
 
 ---
 
-#---
 ## 👨‍💻 Author
 
 Developed by Patricio Palacios B.
