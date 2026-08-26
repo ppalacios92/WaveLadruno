@@ -8,5 +8,10 @@ WaveLadruno.egg-info/dependency_links.txt
 WaveLadruno.egg-info/requires.txt
 WaveLadruno.egg-info/top_level.txt
 WaveLadruno/plots/__init__.py
+WaveLadruno/plots/plot_3d_colored_sphere.py
+WaveLadruno/plots/plot_beachball_set.py
+WaveLadruno/plots/plot_radiation_patterns.py
+WaveLadruno/plots/plot_sphere_with_vectors.py
 WaveLadruno/tools/__init__.py
 WaveLadruno/tools/moment_tensor_tools.py
+WaveLadruno/tools/radiation_vectors.py
